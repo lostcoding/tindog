@@ -162,12 +162,13 @@ p {
 @media (max-width:1028px) {
   #title {
     text-align: center;
+    align:center;
+
   }
 
   .title-image {
     position: static;
     transform: rotate(0);
-    align:center;
   }
 }
 
